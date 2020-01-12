@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HatchRouter as Router, Route, Switch } from "react-router-dom";
 import Contacts from "./components/contacts/Contacts";
 import Header from "./components/layout/Header";
 import AddContact from "./components/contacts/AddContact";
